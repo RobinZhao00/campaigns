@@ -1,0 +1,9 @@
+{
+  "name": "campaigns",
+  "version": "1.0.0",
+  "description": "H5 活动收集",
+  "main": "index.js",
+  "repository": "git@github.com:RobinZhao00/campaigns.git",
+  "author": "郭南赐 <guonanci@lattebank.com>",
+  "license": "MIT"
+}
